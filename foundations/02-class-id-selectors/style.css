@@ -1,19 +1,18 @@
 p{
-    font-family: Verdana, DejaVu Sans , sans-serif;
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
     background-color: hsla(353, 100%, 74%, 1);
 }
 
-#numberTwo{
+#two{
     color: blue;
     font-size: 36px;
 }
 
-#numberThree{
+.font-change{
     font-size: 24px;
 }
 
-#numberFour{
+#four{
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24px;
 }
